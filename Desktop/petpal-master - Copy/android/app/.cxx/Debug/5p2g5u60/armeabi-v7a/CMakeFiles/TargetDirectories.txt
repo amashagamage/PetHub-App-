@@ -1,0 +1,2 @@
+C:/Users/ASUS/Desktop/petpal-master - Copy/android/app/.cxx/Debug/5p2g5u60/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/petpal-master - Copy/android/app/.cxx/Debug/5p2g5u60/armeabi-v7a/CMakeFiles/rebuild_cache.dir
