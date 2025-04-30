@@ -1,0 +1,2 @@
+C:/Users/ASUS/Downloads/petpal-master/petpal-master/android/app/.cxx/Debug/311b393u/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Downloads/petpal-master/petpal-master/android/app/.cxx/Debug/311b393u/armeabi-v7a/CMakeFiles/rebuild_cache.dir
